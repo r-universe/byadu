@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "modchart"]
+	path = modchart
+	url = https://github.com/byadu/modchart
+	shallow = true
+	registered = true
+[submodule "modgetxl"]
+	path = modgetxl
+	url = https://github.com/byadu/modgetxl
+	shallow = true
+	registered = true
